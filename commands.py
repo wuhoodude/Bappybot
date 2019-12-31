@@ -35,7 +35,7 @@ from user import User
 
 usageLink = r'http://www.smogon.com/stats/2019-01/'
 
-def URL(): return 'https://github.com/QuiteQuiet/PokemonShowdownBot/'
+def URL(): return 'https://github.com/wuhoodude/Bappybot/'
 
 def get(robot, cmd, params, user):
     if user.isOwner():
